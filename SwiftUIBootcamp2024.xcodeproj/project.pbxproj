@@ -10,6 +10,7 @@
 		D938D9A52B9DAEA200E3DDDA /* FramsAndAlignments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */; };
 		D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */; };
 		D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */; };
+		D980075E2B9F5C830062AA7E /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075D2B9F5C830062AA7E /* Padding.swift */; };
 		D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980F2402B961C9700431F0B /* SwiftUIBootcamp2024App.swift */; };
 		D980F2432B961C9700431F0B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980F2422B961C9700431F0B /* ContentView.swift */; };
 		D980F2452B961C9800431F0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D980F2442B961C9800431F0B /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramsAndAlignments.swift; sourceTree = "<group>"; };
 		D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlays.swift; sourceTree = "<group>"; };
 		D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VstackZstackAndZstack.swift; sourceTree = "<group>"; };
+		D980075D2B9F5C830062AA7E /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		D980F23D2B961C9700431F0B /* SwiftUIBootcamp2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D980F2402B961C9700431F0B /* SwiftUIBootcamp2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcamp2024App.swift; sourceTree = "<group>"; };
 		D980F2422B961C9700431F0B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */,
 				D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */,
 				D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */,
+				D980075D2B9F5C830062AA7E /* Padding.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				D9A774262B969F7300FCDDF2 /* ShapeView.swift in Sources */,
 				D938D9A52B9DAEA200E3DDDA /* FramsAndAlignments.swift in Sources */,
+				D980075E2B9F5C830062AA7E /* Padding.swift in Sources */,
 				D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */,
 				D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */,
 				D980F2432B961C9700431F0B /* ContentView.swift in Sources */,
