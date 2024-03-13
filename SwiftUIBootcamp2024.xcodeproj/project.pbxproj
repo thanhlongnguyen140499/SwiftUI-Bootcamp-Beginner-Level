@@ -18,6 +18,7 @@
 		D9A774262B969F7300FCDDF2 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A774252B969F7300FCDDF2 /* ShapeView.swift */; };
 		D9BAC67F2BA2077300E37DCF /* SpacerSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */; };
 		D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */; };
+		D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		D9A774252B969F7300FCDDF2 /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
 		D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerSwift.swift; sourceTree = "<group>"; };
 		D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerView.swift; sourceTree = "<group>"; };
+		D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopsInSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,9 +75,10 @@
 				D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */,
 				D980075D2B9F5C830062AA7E /* Padding.swift */,
 				D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */,
+				D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */,
+				D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
-				D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */,
 			);
 			path = SwiftUIBootcamp2024;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				D980075E2B9F5C830062AA7E /* Padding.swift in Sources */,
 				D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */,
 				D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */,
+				D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
 				D9BAC67F2BA2077300E37DCF /* SpacerSwift.swift in Sources */,
 				D980F2432B961C9700431F0B /* ContentView.swift in Sources */,
