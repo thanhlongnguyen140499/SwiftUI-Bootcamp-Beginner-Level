@@ -15,7 +15,8 @@ struct SwiftUIBootcamp2024App: App {
 //            ShapeView()
 //            FramsAndAlignments()
 //            BackgroundsAndOverlays()
-            VstackZstackAndZstack()
+//            VstackZstackAndZstack()
+            SpacerSwift()
         }
     }
 }
