@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D938D9A52B9DAEA200E3DDDA /* FramsAndAlignments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */; };
 		D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */; };
+		D962B30B2BA583CD0033C519 /* LazyGridAndGridItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */; };
 		D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */; };
 		D980075E2B9F5C830062AA7E /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075D2B9F5C830062AA7E /* Padding.swift */; };
 		D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980F2402B961C9700431F0B /* SwiftUIBootcamp2024App.swift */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramsAndAlignments.swift; sourceTree = "<group>"; };
 		D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlays.swift; sourceTree = "<group>"; };
+		D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridAndGridItems.swift; sourceTree = "<group>"; };
 		D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VstackZstackAndZstack.swift; sourceTree = "<group>"; };
 		D980075D2B9F5C830062AA7E /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		D980F23D2B961C9700431F0B /* SwiftUIBootcamp2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +82,7 @@
 				D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */,
 				D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */,
 				D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */,
+				D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -170,6 +173,7 @@
 				D980075E2B9F5C830062AA7E /* Padding.swift in Sources */,
 				D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */,
 				D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */,
+				D962B30B2BA583CD0033C519 /* LazyGridAndGridItems.swift in Sources */,
 				D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
 				D9BAC67F2BA2077300E37DCF /* SpacerSwift.swift in Sources */,

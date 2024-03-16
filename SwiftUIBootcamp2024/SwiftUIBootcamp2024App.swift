@@ -17,7 +17,8 @@ struct SwiftUIBootcamp2024App: App {
 //            BackgroundsAndOverlays()
 //            VstackZstackAndZstack()
 //            SpacerSwift()
-            ScrollViewSwift()
+//            ScrollViewSwift()
+            LazyGridAndGridItems()
         }
     }
 }
