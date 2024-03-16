@@ -19,6 +19,7 @@
 		D9BAC67F2BA2077300E37DCF /* SpacerSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */; };
 		D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */; };
 		D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */; };
+		D9EDFE732BA54F6C000EACCB /* ScrollViewSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerSwift.swift; sourceTree = "<group>"; };
 		D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerView.swift; sourceTree = "<group>"; };
 		D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopsInSwift.swift; sourceTree = "<group>"; };
+		D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */,
 				D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */,
 				D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */,
+				D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9A774262B969F7300FCDDF2 /* ShapeView.swift in Sources */,
+				D9EDFE732BA54F6C000EACCB /* ScrollViewSwift.swift in Sources */,
 				D938D9A52B9DAEA200E3DDDA /* FramsAndAlignments.swift in Sources */,
 				D980075E2B9F5C830062AA7E /* Padding.swift in Sources */,
 				D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */,
