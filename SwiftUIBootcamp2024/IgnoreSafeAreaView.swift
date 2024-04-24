@@ -28,3 +28,4 @@ struct IgnoreSafeAreaView: View {
 #Preview {
     IgnoreSafeAreaView()
 }
+ 
