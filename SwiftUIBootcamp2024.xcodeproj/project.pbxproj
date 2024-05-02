@@ -13,6 +13,7 @@
 		D962B30D2BA590D60033C519 /* IgnoreSafeAreaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962B30C2BA590D60033C519 /* IgnoreSafeAreaView.swift */; };
 		D96CC5122BE3C71A0079AB84 /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96CC5112BE3C71A0079AB84 /* ExtractSubViews.swift */; };
 		D96CC5142BE3CD470079AB84 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96CC5132BE3CD470079AB84 /* Binding.swift */; };
+		D96CC5162BE3E8A60079AB84 /* ConditionalStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96CC5152BE3E8A60079AB84 /* ConditionalStatement.swift */; };
 		D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */; };
 		D980075E2B9F5C830062AA7E /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075D2B9F5C830062AA7E /* Padding.swift */; };
 		D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980F2402B961C9700431F0B /* SwiftUIBootcamp2024App.swift */; };
@@ -35,6 +36,7 @@
 		D962B30C2BA590D60033C519 /* IgnoreSafeAreaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreSafeAreaView.swift; sourceTree = "<group>"; };
 		D96CC5112BE3C71A0079AB84 /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
 		D96CC5132BE3CD470079AB84 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		D96CC5152BE3E8A60079AB84 /* ConditionalStatement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatement.swift; sourceTree = "<group>"; };
 		D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VstackZstackAndZstack.swift; sourceTree = "<group>"; };
 		D980075D2B9F5C830062AA7E /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		D980F23D2B961C9700431F0B /* SwiftUIBootcamp2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,6 +100,7 @@
 				D99C93772BD9630E00C5FF58 /* ExtractedFunction.swift */,
 				D96CC5112BE3C71A0079AB84 /* ExtractSubViews.swift */,
 				D96CC5132BE3CD470079AB84 /* Binding.swift */,
+				D96CC5152BE3E8A60079AB84 /* ConditionalStatement.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -188,6 +191,7 @@
 				D96CC5122BE3C71A0079AB84 /* ExtractSubViews.swift in Sources */,
 				D99C93762BD95DE800C5FF58 /* StateProperty.swift in Sources */,
 				D938D9A52B9DAEA200E3DDDA /* FramsAndAlignments.swift in Sources */,
+				D96CC5162BE3E8A60079AB84 /* ConditionalStatement.swift in Sources */,
 				D980075E2B9F5C830062AA7E /* Padding.swift in Sources */,
 				D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */,
 				D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */,
