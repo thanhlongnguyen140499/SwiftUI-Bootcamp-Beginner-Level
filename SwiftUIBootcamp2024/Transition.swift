@@ -12,7 +12,7 @@ struct Transition: View {
     
     var body: some View {
         ZStack(alignment: .bottom) {
-//            Color.gray.ignoresSafeArea(.all)
+            //            Color.gray.ignoresSafeArea(.all)
             
             VStack {
                 Button("helo") {
@@ -26,10 +26,18 @@ struct Transition: View {
             }
             
             if showView {
+                //                RoundedRectangle(cornerRadius: 30)
+                //                    .frame( height: UIScreen.main.bounds.height * 0.5)
+                //                    .transition(.move(edge: .bottom))
+                //    //                .transition(.slide)
+                
+                // Asymmetric Transition
                 RoundedRectangle(cornerRadius: 30)
                     .frame( height: UIScreen.main.bounds.height * 0.5)
-                    .transition(.move(edge: .bottom))
-    //                .transition(.slide)
+                    .transition(.asymmetric(
+                        insertion: .move(edge: .bottom),
+                        removal: AnyTransition.opacity.animation(.easeIn))
+                    )
             }
         }.edgesIgnoringSafeArea(.bottom)
     }
