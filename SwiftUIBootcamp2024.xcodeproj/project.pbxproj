@@ -21,6 +21,7 @@
 		D980F2452B961C9800431F0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D980F2442B961C9800431F0B /* Assets.xcassets */; };
 		D980F2482B961C9800431F0B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D980F2472B961C9800431F0B /* Preview Assets.xcassets */; };
 		D98A93F02BE61A970005F92D /* AddingNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98A93EF2BE61A970005F92D /* AddingNavigation.swift */; };
+		D98A93F22BE623580005F92D /* AnimationCurvesAndTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98A93F12BE623580005F92D /* AnimationCurvesAndTiming.swift */; };
 		D99C93762BD95DE800C5FF58 /* StateProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99C93752BD95DE800C5FF58 /* StateProperty.swift */; };
 		D99C93782BD9630E00C5FF58 /* ExtractedFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99C93772BD9630E00C5FF58 /* ExtractedFunction.swift */; };
 		D9A774262B969F7300FCDDF2 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A774252B969F7300FCDDF2 /* ShapeView.swift */; };
@@ -46,6 +47,7 @@
 		D980F2442B961C9800431F0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D980F2472B961C9800431F0B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D98A93EF2BE61A970005F92D /* AddingNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNavigation.swift; sourceTree = "<group>"; };
+		D98A93F12BE623580005F92D /* AnimationCurvesAndTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesAndTiming.swift; sourceTree = "<group>"; };
 		D99C93752BD95DE800C5FF58 /* StateProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateProperty.swift; sourceTree = "<group>"; };
 		D99C93772BD9630E00C5FF58 /* ExtractedFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunction.swift; sourceTree = "<group>"; };
 		D9A774252B969F7300FCDDF2 /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				D96CC5132BE3CD470079AB84 /* Binding.swift */,
 				D96CC5152BE3E8A60079AB84 /* ConditionalStatement.swift */,
 				D98A93EF2BE61A970005F92D /* AddingNavigation.swift */,
+				D98A93F12BE623580005F92D /* AnimationCurvesAndTiming.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -200,6 +203,7 @@
 				D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */,
 				D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */,
 				D962B30B2BA583CD0033C519 /* LazyGridAndGridItems.swift in Sources */,
+				D98A93F22BE623580005F92D /* AnimationCurvesAndTiming.swift in Sources */,
 				D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */,
 				D96CC5142BE3CD470079AB84 /* Binding.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
