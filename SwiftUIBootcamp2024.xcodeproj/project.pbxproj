@@ -24,6 +24,7 @@
 		D98A93F22BE623580005F92D /* AnimationCurvesAndTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98A93F12BE623580005F92D /* AnimationCurvesAndTiming.swift */; };
 		D98A93F42BE62F1E0005F92D /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98A93F32BE62F1E0005F92D /* Transition.swift */; };
 		D98A93F62BE6779F0005F92D /* Sheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98A93F52BE6779F0005F92D /* Sheet.swift */; };
+		D98A93F82BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98A93F72BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift */; };
 		D99C93762BD95DE800C5FF58 /* StateProperty.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99C93752BD95DE800C5FF58 /* StateProperty.swift */; };
 		D99C93782BD9630E00C5FF58 /* ExtractedFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99C93772BD9630E00C5FF58 /* ExtractedFunction.swift */; };
 		D9A774262B969F7300FCDDF2 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A774252B969F7300FCDDF2 /* ShapeView.swift */; };
@@ -52,6 +53,7 @@
 		D98A93F12BE623580005F92D /* AnimationCurvesAndTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesAndTiming.swift; sourceTree = "<group>"; };
 		D98A93F32BE62F1E0005F92D /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 		D98A93F52BE6779F0005F92D /* Sheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheet.swift; sourceTree = "<group>"; };
+		D98A93F72BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsingSheetAndTransitionsAndOffset.swift; sourceTree = "<group>"; };
 		D99C93752BD95DE800C5FF58 /* StateProperty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateProperty.swift; sourceTree = "<group>"; };
 		D99C93772BD9630E00C5FF58 /* ExtractedFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunction.swift; sourceTree = "<group>"; };
 		D9A774252B969F7300FCDDF2 /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				D98A93F12BE623580005F92D /* AnimationCurvesAndTiming.swift */,
 				D98A93F32BE62F1E0005F92D /* Transition.swift */,
 				D98A93F52BE6779F0005F92D /* Sheet.swift */,
+				D98A93F72BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -211,6 +214,7 @@
 				D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */,
 				D962B30B2BA583CD0033C519 /* LazyGridAndGridItems.swift in Sources */,
 				D98A93F22BE623580005F92D /* AnimationCurvesAndTiming.swift in Sources */,
+				D98A93F82BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift in Sources */,
 				D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */,
 				D96CC5142BE3CD470079AB84 /* Binding.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
