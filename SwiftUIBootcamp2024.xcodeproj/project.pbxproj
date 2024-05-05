@@ -33,6 +33,7 @@
 		D9BAC67F2BA2077300E37DCF /* SpacerSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */; };
 		D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */; };
 		D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */; };
+		D9E3E6702BE74A790077B3EC /* AlertSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E3E66F2BE74A790077B3EC /* AlertSwiftUI.swift */; };
 		D9EDFE732BA54F6C000EACCB /* ScrollViewSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +65,7 @@
 		D9BAC67E2BA2077300E37DCF /* SpacerSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerSwift.swift; sourceTree = "<group>"; };
 		D9BAC6802BA20FAD00E37DCF /* InitializerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerView.swift; sourceTree = "<group>"; };
 		D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopsInSwift.swift; sourceTree = "<group>"; };
+		D9E3E66F2BE74A790077B3EC /* AlertSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertSwiftUI.swift; sourceTree = "<group>"; };
 		D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -122,6 +124,7 @@
 				D98A93F72BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift */,
 				D98A93F92BE682570005F92D /* NavigationViewAndNavigationLink.swift */,
 				D9672BC22BE7305500A74A07 /* ListSwiftUI.swift */,
+				D9E3E66F2BE74A790077B3EC /* AlertSwiftUI.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -224,6 +227,7 @@
 				D98A93F22BE623580005F92D /* AnimationCurvesAndTiming.swift in Sources */,
 				D98A93F82BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift in Sources */,
 				D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */,
+				D9E3E6702BE74A790077B3EC /* AlertSwiftUI.swift in Sources */,
 				D96CC5142BE3CD470079AB84 /* Binding.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
 				D98A93F62BE6779F0005F92D /* Sheet.swift in Sources */,
