@@ -35,6 +35,7 @@
 		D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */; };
 		D9E3E6702BE74A790077B3EC /* AlertSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E3E66F2BE74A790077B3EC /* AlertSwiftUI.swift */; };
 		D9E3E6722BE74F2E0077B3EC /* ActionSheetSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E3E6712BE74F2E0077B3EC /* ActionSheetSwiftUI.swift */; };
+		D9E3E6742BE7531E0077B3EC /* ContextMenuSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E3E6732BE7531E0077B3EC /* ContextMenuSwiftUI.swift */; };
 		D9EDFE732BA54F6C000EACCB /* ScrollViewSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +69,7 @@
 		D9BAC6822BA2156700E37DCF /* ForEachLoopsInSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachLoopsInSwift.swift; sourceTree = "<group>"; };
 		D9E3E66F2BE74A790077B3EC /* AlertSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertSwiftUI.swift; sourceTree = "<group>"; };
 		D9E3E6712BE74F2E0077B3EC /* ActionSheetSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetSwiftUI.swift; sourceTree = "<group>"; };
+		D9E3E6732BE7531E0077B3EC /* ContextMenuSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuSwiftUI.swift; sourceTree = "<group>"; };
 		D9EDFE722BA54F6C000EACCB /* ScrollViewSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,6 +130,7 @@
 				D9672BC22BE7305500A74A07 /* ListSwiftUI.swift */,
 				D9E3E66F2BE74A790077B3EC /* AlertSwiftUI.swift */,
 				D9E3E6712BE74F2E0077B3EC /* ActionSheetSwiftUI.swift */,
+				D9E3E6732BE7531E0077B3EC /* ContextMenuSwiftUI.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -236,6 +239,7 @@
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
 				D98A93F62BE6779F0005F92D /* Sheet.swift in Sources */,
 				D9BAC67F2BA2077300E37DCF /* SpacerSwift.swift in Sources */,
+				D9E3E6742BE7531E0077B3EC /* ContextMenuSwiftUI.swift in Sources */,
 				D980F2432B961C9700431F0B /* ContentView.swift in Sources */,
 				D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */,
 				D962B30D2BA590D60033C519 /* IgnoreSafeAreaView.swift in Sources */,
