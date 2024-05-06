@@ -18,6 +18,7 @@
 		D96F74742BE9126100F93EFD /* TextFieldSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F74732BE9126100F93EFD /* TextFieldSwiftUI.swift */; };
 		D96F74762BE916D500F93EFD /* TextEditorSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F74752BE916D500F93EFD /* TextEditorSwiftUI.swift */; };
 		D96F74782BE9198400F93EFD /* ToggleSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F74772BE9198400F93EFD /* ToggleSwiftUI.swift */; };
+		D96F747A2BE91AFB00F93EFD /* PickerAndPickerStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F74792BE91AFB00F93EFD /* PickerAndPickerStyle.swift */; };
 		D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */; };
 		D980075E2B9F5C830062AA7E /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075D2B9F5C830062AA7E /* Padding.swift */; };
 		D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980F2402B961C9700431F0B /* SwiftUIBootcamp2024App.swift */; };
@@ -54,6 +55,7 @@
 		D96F74732BE9126100F93EFD /* TextFieldSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldSwiftUI.swift; sourceTree = "<group>"; };
 		D96F74752BE916D500F93EFD /* TextEditorSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorSwiftUI.swift; sourceTree = "<group>"; };
 		D96F74772BE9198400F93EFD /* ToggleSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleSwiftUI.swift; sourceTree = "<group>"; };
+		D96F74792BE91AFB00F93EFD /* PickerAndPickerStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerAndPickerStyle.swift; sourceTree = "<group>"; };
 		D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VstackZstackAndZstack.swift; sourceTree = "<group>"; };
 		D980075D2B9F5C830062AA7E /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		D980F23D2B961C9700431F0B /* SwiftUIBootcamp2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -140,6 +142,7 @@
 				D96F74732BE9126100F93EFD /* TextFieldSwiftUI.swift */,
 				D96F74752BE916D500F93EFD /* TextEditorSwiftUI.swift */,
 				D96F74772BE9198400F93EFD /* ToggleSwiftUI.swift */,
+				D96F74792BE91AFB00F93EFD /* PickerAndPickerStyle.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -245,6 +248,7 @@
 				D98A93F82BE67BA80005F92D /* UsingSheetAndTransitionsAndOffset.swift in Sources */,
 				D9BAC6832BA2156700E37DCF /* ForEachLoopsInSwift.swift in Sources */,
 				D9E3E6702BE74A790077B3EC /* AlertSwiftUI.swift in Sources */,
+				D96F747A2BE91AFB00F93EFD /* PickerAndPickerStyle.swift in Sources */,
 				D96CC5142BE3CD470079AB84 /* Binding.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
 				D98A93F62BE6779F0005F92D /* Sheet.swift in Sources */,
