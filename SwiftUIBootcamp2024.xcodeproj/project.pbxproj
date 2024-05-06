@@ -22,6 +22,7 @@
 		D96F747C2BE91E1300F93EFD /* ColorPickerSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F747B2BE91E1300F93EFD /* ColorPickerSwiftUI.swift */; };
 		D96F747E2BE9233700F93EFD /* TabBarSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F747D2BE9233700F93EFD /* TabBarSwiftUI.swift */; };
 		D96F74802BE92CE500F93EFD /* AdaptiveDarkLightMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F747F2BE92CE500F93EFD /* AdaptiveDarkLightMode.swift */; };
+		D96F74822BE9309400F93EFD /* MarkupAndDocumentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96F74812BE9309400F93EFD /* MarkupAndDocumentation.swift */; };
 		D980075C2B9F4DA20062AA7E /* VstackZstackAndZstack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */; };
 		D980075E2B9F5C830062AA7E /* Padding.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980075D2B9F5C830062AA7E /* Padding.swift */; };
 		D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980F2402B961C9700431F0B /* SwiftUIBootcamp2024App.swift */; };
@@ -62,6 +63,7 @@
 		D96F747B2BE91E1300F93EFD /* ColorPickerSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerSwiftUI.swift; sourceTree = "<group>"; };
 		D96F747D2BE9233700F93EFD /* TabBarSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarSwiftUI.swift; sourceTree = "<group>"; };
 		D96F747F2BE92CE500F93EFD /* AdaptiveDarkLightMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveDarkLightMode.swift; sourceTree = "<group>"; };
+		D96F74812BE9309400F93EFD /* MarkupAndDocumentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarkupAndDocumentation.swift; sourceTree = "<group>"; };
 		D980075B2B9F4DA20062AA7E /* VstackZstackAndZstack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VstackZstackAndZstack.swift; sourceTree = "<group>"; };
 		D980075D2B9F5C830062AA7E /* Padding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Padding.swift; sourceTree = "<group>"; };
 		D980F23D2B961C9700431F0B /* SwiftUIBootcamp2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp2024.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -152,6 +154,7 @@
 				D96F747B2BE91E1300F93EFD /* ColorPickerSwiftUI.swift */,
 				D96F747D2BE9233700F93EFD /* TabBarSwiftUI.swift */,
 				D96F747F2BE92CE500F93EFD /* AdaptiveDarkLightMode.swift */,
+				D96F74812BE9309400F93EFD /* MarkupAndDocumentation.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -268,6 +271,7 @@
 				D9E3E6742BE7531E0077B3EC /* ContextMenuSwiftUI.swift in Sources */,
 				D96F74762BE916D500F93EFD /* TextEditorSwiftUI.swift in Sources */,
 				D980F2432B961C9700431F0B /* ContentView.swift in Sources */,
+				D96F74822BE9309400F93EFD /* MarkupAndDocumentation.swift in Sources */,
 				D980F2412B961C9700431F0B /* SwiftUIBootcamp2024App.swift in Sources */,
 				D962B30D2BA590D60033C519 /* IgnoreSafeAreaView.swift in Sources */,
 				D96F74742BE9126100F93EFD /* TextFieldSwiftUI.swift in Sources */,
