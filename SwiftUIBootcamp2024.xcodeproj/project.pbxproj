@@ -10,6 +10,7 @@
 		D938D9A52B9DAEA200E3DDDA /* FramsAndAlignments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */; };
 		D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */; };
 		D960F3B32BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D960F3B22BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift */; };
+		D960F3B52BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D960F3B42BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift */; };
 		D962B30B2BA583CD0033C519 /* LazyGridAndGridItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */; };
 		D962B30D2BA590D60033C519 /* IgnoreSafeAreaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962B30C2BA590D60033C519 /* IgnoreSafeAreaView.swift */; };
 		D9672BC32BE7305500A74A07 /* ListSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9672BC22BE7305500A74A07 /* ListSwiftUI.swift */; };
@@ -53,6 +54,7 @@
 		D938D9A42B9DAEA200E3DDDA /* FramsAndAlignments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramsAndAlignments.swift; sourceTree = "<group>"; };
 		D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlays.swift; sourceTree = "<group>"; };
 		D960F3B22BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardSwiftUI.swift; sourceTree = "<group>"; };
+		D960F3B42BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModalsSwiftUI.swift; sourceTree = "<group>"; };
 		D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridAndGridItems.swift; sourceTree = "<group>"; };
 		D962B30C2BA590D60033C519 /* IgnoreSafeAreaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreSafeAreaView.swift; sourceTree = "<group>"; };
 		D9672BC22BE7305500A74A07 /* ListSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwiftUI.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				D96F74812BE9309400F93EFD /* MarkupAndDocumentation.swift */,
 				D982F4C52BF05DB500DC1DC0 /* UseOnAppearAndOnDisappear.swift */,
 				D960F3B22BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift */,
+				D960F3B42BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -271,6 +274,7 @@
 				D9E3E6702BE74A790077B3EC /* AlertSwiftUI.swift in Sources */,
 				D96F747C2BE91E1300F93EFD /* ColorPickerSwiftUI.swift in Sources */,
 				D96F747A2BE91AFB00F93EFD /* PickerAndPickerStyle.swift in Sources */,
+				D960F3B52BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift in Sources */,
 				D96CC5142BE3CD470079AB84 /* Binding.swift in Sources */,
 				D9BAC6812BA20FAD00E37DCF /* InitializerView.swift in Sources */,
 				D98A93F62BE6779F0005F92D /* Sheet.swift in Sources */,
