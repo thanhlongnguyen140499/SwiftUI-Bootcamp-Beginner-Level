@@ -11,6 +11,7 @@
 		D938D9A72B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */; };
 		D960F3B32BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D960F3B22BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift */; };
 		D960F3B52BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D960F3B42BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift */; };
+		D960F3B72BF0B96700CC54B4 /* ObservableObjectAndStateObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = D960F3B62BF0B96700CC54B4 /* ObservableObjectAndStateObject.swift */; };
 		D962B30B2BA583CD0033C519 /* LazyGridAndGridItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */; };
 		D962B30D2BA590D60033C519 /* IgnoreSafeAreaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D962B30C2BA590D60033C519 /* IgnoreSafeAreaView.swift */; };
 		D9672BC32BE7305500A74A07 /* ListSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9672BC22BE7305500A74A07 /* ListSwiftUI.swift */; };
@@ -55,6 +56,7 @@
 		D938D9A62B9DBF9000E3DDDA /* BackgroundsAndOverlays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlays.swift; sourceTree = "<group>"; };
 		D960F3B22BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardSwiftUI.swift; sourceTree = "<group>"; };
 		D960F3B42BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModalsSwiftUI.swift; sourceTree = "<group>"; };
+		D960F3B62BF0B96700CC54B4 /* ObservableObjectAndStateObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableObjectAndStateObject.swift; sourceTree = "<group>"; };
 		D962B30A2BA583CD0033C519 /* LazyGridAndGridItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridAndGridItems.swift; sourceTree = "<group>"; };
 		D962B30C2BA590D60033C519 /* IgnoreSafeAreaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IgnoreSafeAreaView.swift; sourceTree = "<group>"; };
 		D9672BC22BE7305500A74A07 /* ListSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwiftUI.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				D982F4C52BF05DB500DC1DC0 /* UseOnAppearAndOnDisappear.swift */,
 				D960F3B22BF07A1300CC54B4 /* IfLetGuardSwiftUI.swift */,
 				D960F3B42BF07EEF00CC54B4 /* CustomModalsSwiftUI.swift */,
+				D960F3B62BF0B96700CC54B4 /* ObservableObjectAndStateObject.swift */,
 				D980F2442B961C9800431F0B /* Assets.xcassets */,
 				D980F2462B961C9800431F0B /* Preview Content */,
 			);
@@ -254,6 +257,7 @@
 				D96F747E2BE9233700F93EFD /* TabBarSwiftUI.swift in Sources */,
 				D96F74802BE92CE500F93EFD /* AdaptiveDarkLightMode.swift in Sources */,
 				D98A93F02BE61A970005F92D /* AddingNavigation.swift in Sources */,
+				D960F3B72BF0B96700CC54B4 /* ObservableObjectAndStateObject.swift in Sources */,
 				D9EDFE732BA54F6C000EACCB /* ScrollViewSwift.swift in Sources */,
 				D96CC5122BE3C71A0079AB84 /* ExtractSubViews.swift in Sources */,
 				D99C93762BD95DE800C5FF58 /* StateProperty.swift in Sources */,

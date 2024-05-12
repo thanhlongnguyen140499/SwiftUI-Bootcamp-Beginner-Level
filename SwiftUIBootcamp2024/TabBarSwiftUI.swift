@@ -14,30 +14,30 @@ struct TabBarSwiftUI: View {
     var body: some View {
         ZStack {
             // Tabview 1
-//            TabView(selection: $tabBarSelection,
-//                    content:  {
-//                Homeview().tabItem {
-//                    Image(systemName: "house.fill")
-//                    Text("Home") }.tag(1)
-//                ContactView(tabBarSelection: $tabBarSelection).tabItem {
-//                    Image(systemName: "person.fill")
-//                    Text("Contact") }.tag(2)
-//            })
-//            .accentColor(.red)
-//            .tabViewStyle(.page(indexDisplayMode: .automatic))
+            TabView(selection: $tabBarSelection,
+                    content:  {
+                Homeview().tabItem {
+                    Image(systemName: "house.fill")
+                    Text("Home") }.tag(1)
+                ContactView(tabBarSelection: $tabBarSelection).tabItem {
+                    Image(systemName: "person.fill")
+                    Text("Contact") }.tag(2)
+            })
+            .accentColor(.red)
+            .tabViewStyle(.page(indexDisplayMode: .automatic))
             
             // Tabview 2
-            TabView {
-                ForEach(icons, id: \.self) { image in
-                    Image(systemName: image)
-                        .resizable()
-                        .scaledToFit()
-                        .padding(30)
-                }
-            }
-            .tabViewStyle(.page)
-            .background(RadialGradient(gradient: Gradient(colors: [Color.red, Color.blue]), center: UnitPoint.center, startRadius: 5, endRadius: 300))
-            
+//            TabView {
+//                ForEach(icons, id: \.self) { image in
+//                    Image(systemName: image)
+//                        .resizable()
+//                        .scaledToFit()
+//                        .padding(30)
+//                }
+//            }
+//            .tabViewStyle(.page)
+//            .background(RadialGradient(gradient: Gradient(colors: [Color.red, Color.blue]), center: UnitPoint.center, startRadius: 5, endRadius: 300))
+//            
         }
     }
 }
